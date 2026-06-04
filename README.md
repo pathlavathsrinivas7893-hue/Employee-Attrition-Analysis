@@ -163,29 +163,29 @@ Employee-Attrition-Analysis/
 
 ├── cleaned_data/
 
-│   └── cleaned_employee_attrition.csv
+│       └── cleaned_employee_attrition.csv
 
 ├── data/
 
-│   └── HR-Employee-Attrition.csv
+│       └── HR-Employee-Attrition.csv
 
 ├── notebooks/
 
-│   └── employee_attrition.ipynb
+│       └── employee_attrition.ipynb
 
 ├── visuals/
 
-│   ├── attrition_count.png
+│       ├── attrition_count.png
 
-│   ├── department_attrition.png
+│       ├── department_attrition.png
 
-│   ├── heatmap.png
+│       ├── heatmap.png
 
-│   ├── jobrole_attrition.png
+│       ├── jobrole_attrition.png
 
-│   ├── monthlyincome_count.png
+│       ├── monthlyincome_count.png
 
-│   └── overtime_attrition.png
+│       └── overtime_attrition.png
 
 ├── README.md
 
