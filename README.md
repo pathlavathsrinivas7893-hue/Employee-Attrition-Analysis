@@ -162,20 +162,29 @@ Generated a heatmap to identify relationships among numerical variables.
 Employee-Attrition-Analysis/
 
 ├── cleaned_data/
+
 │   └── cleaned_employee_attrition.csv
 
 ├── data/
+
 │   └── HR-Employee-Attrition.csv
 
 ├── notebooks/
+
 │   └── employee_attrition.ipynb
 
 ├── visuals/
+
 │   ├── attrition_count.png
+
 │   ├── department_attrition.png
+
 │   ├── heatmap.png
+
 │   ├── jobrole_attrition.png
+
 │   ├── monthlyincome_count.png
+
 │   └── overtime_attrition.png
 
 ├── README.md
